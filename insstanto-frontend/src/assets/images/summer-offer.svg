@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" fill="#4caf50">
+  <rect width="800" height="300" fill="#e8f5e9" rx="10" ry="10"/>
+  <text x="400" y="100" font-family="Arial" font-size="48" font-weight="bold" text-anchor="middle" fill="#1e3a1e">Swachh Summer Offer</text>
+  <text x="400" y="150" font-family="Arial" font-size="24" text-anchor="middle" fill="#1e3a1e">Special discounts on cleaning services</text>
+  <rect x="300" y="180" width="200" height="50" fill="#1e3a1e" rx="25" ry="25"/>
+  <text x="400" y="215" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" fill="white">EXPLORE MORE</text>
+  <circle cx="650" cy="80" r="40" fill="#FFC107"/>
+  <path d="M650 60 L650 100 M630 80 L670 80" stroke="#1e3a1e" stroke-width="5"/>
+  <path d="M700 200 C730 180, 760 220, 780 200" stroke="#1e3a1e" stroke-width="3" fill="none"/>
+  <path d="M720 220 C750 200, 780 240, 800 220" stroke="#1e3a1e" stroke-width="3" fill="none"/>
+</svg>

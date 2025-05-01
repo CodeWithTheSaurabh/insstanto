@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" fill="none">
+  <rect width="1200" height="400" fill="#e8f5e9"/>
+  <rect x="0" y="0" width="1200" height="400" fill="#1e3a1e" opacity="0.9"/>
+  <text x="600" y="150" font-family="Poppins, sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="white">Professional Home Services</text>
+  <text x="600" y="220" font-family="Poppins, sans-serif" font-size="24" text-anchor="middle" fill="white">One-stop solution for all your home service needs</text>
+  <rect x="500" y="250" width="200" height="50" rx="25" fill="#4caf50"/>
+  <text x="600" y="285" font-family="Poppins, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">Book Now</text>
+</svg>
